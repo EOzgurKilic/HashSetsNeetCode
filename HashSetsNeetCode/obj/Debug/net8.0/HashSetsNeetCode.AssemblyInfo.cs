@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashSetsNeetCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+461aee5cc1f847f0984b3069b8eace06975a5a61")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashSetsNeetCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashSetsNeetCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
